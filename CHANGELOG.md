@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/edcastsh/portfolio/compare/portfolio-v1.1.0...portfolio-v1.2.0) (2026-11-03)
+
+
+### Features
+
+* align portfolio with GitHub profile and add CV download ([#5](https://github.com/edcastsh/portfolio/issues/5)) ([a52d9e1](https://github.com/edcastsh/portfolio/commit/a52d9e1fe5513964c1025fd9088263abbbc8f33f))
+
 ## [1.1.0](https://github.com/edcastsh/portfolio/compare/portfolio-v1.0.0...portfolio-v1.1.0) (2026-11-03)
 
 
