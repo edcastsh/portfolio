@@ -30,20 +30,28 @@
     "en": "EN"
   },
   "hero": {
-    "headline": "Construyo aplicaciones web y móviles confiables con React, React Native y TypeScript.",
-    "whatsapp": "WhatsApp"
+    "headline": "Construyo software útil, desde la interfaz hasta los sistemas que lo hacen funcionar.",
+    "whatsapp": "WhatsApp",
+    "intro": "Ingeniero de software especializado en React, React Native, TypeScript y Node.js. Me interesan las interfaces claras, la arquitectura mantenible y los detalles que hacen confiable un producto.",
+    "downloadCv": "Descargar CV"
   },
   "about": {
     "section": "01 //",
     "title": "Sobre mí",
-    "lead": "Resumen profesional",
-    "bio": "Ingeniero de software con más de 4 años de experiencia construyendo y manteniendo aplicaciones web y móviles en producción con React, React Native, TypeScript, JavaScript y Node.js. Experiencia en arquitectura de componentes reutilizables, manejo de estado, integración de APIs REST, pruebas automatizadas y CI/CD. Combino desarrollo de producto con liderazgo técnico, resolución de incidentes en producción e ingeniería asistida por IA. Enfoque en software mantenible y entrega cross-funcional.",
+    "lead": "Un poco sobre cómo trabajo",
+    "bio": "Desarrollo y mantengo productos web y móviles, desde sistemas de componentes reutilizables hasta integraciones de backend. He colaborado en iniciativas de ingeniería de Amazon Pay, desarrollo de producto, pruebas automatizadas y liderazgo técnico.",
     "status": "#OPENTOWORK",
     "availability": "Abierto a oportunidades remotas o híbridas",
     "languagesTitle": "Idiomas",
     "languages": [
-      { "name": "Español", "level": "Nativo" },
-      { "name": "Inglés", "level": "Avanzado (C1 speaking)" }
+      {
+        "name": "Español",
+        "level": "Nativo"
+      },
+      {
+        "name": "Inglés",
+        "level": "Avanzado (C1 speaking)"
+      }
     ]
   },
   "hints": {
@@ -78,7 +86,7 @@
   },
   "projects": {
     "section": "02 //",
-    "title": "Proyectos",
+    "title": "Proyectos seleccionados",
     "roleLabel": "Rol",
     "periodLabel": "Periodo",
     "items": [
@@ -89,48 +97,91 @@
         "client": "Proyecto personal",
         "link": "https://gasolinazo.vercel.app/",
         "period": "2024 – Presente",
-        "summary": "Aplicación mobile-first para comparar precios de gasolina en México. Pipeline nocturno actualiza precios oficiales a nivel nacional.",
+        "summary": "Una aplicación mobile-first para comparar precios de gasolina cerca de ti en México, con búsqueda en mapa y filtros por combustible y distancia.",
         "role": "Frontend Engineer",
         "bullets": [
           "Mapas interactivos con React-Leaflet.",
           "Datos eficientes con TanStack Query y estado global con Zustand.",
           "Stack: React, TypeScript, Vite."
         ],
-        "tags": ["React", "TypeScript", "Vite", "React-Leaflet", "TanStack Query", "Zustand"]
+        "tags": [
+          "React",
+          "TypeScript",
+          "Vite",
+          "React-Leaflet",
+          "TanStack Query",
+          "Zustand"
+        ],
+        "repository": "https://github.com/edcastsh/gasolinazo"
+      },
+      {
+        "id": "pastry-pos",
+        "number": "02",
+        "title": "Pastry POS",
+        "client": "Proyecto personal",
+        "link": "https://github.com/edcastsh/pastry-pos-showcase",
+        "repository": "https://github.com/edcastsh/pastry-pos-showcase",
+        "period": "2026",
+        "summary": "Un proyecto de punto de venta y gestión de pedidos para una repostería, centrado en los procesos del día a día.",
+        "role": "Full Stack Developer",
+        "bullets": [
+          "Flujos de pedidos y productos.",
+          "Diseñado alrededor de la operación real de una repostería."
+        ],
+        "tags": [
+          "React Native",
+          "TypeScript",
+          "Supabase"
+        ]
       },
       {
         "id": "avondale",
-        "number": "02",
+        "number": "03",
         "title": "Avondale Auto Glass Platform",
         "client": "Avondale Auto Glass",
         "link": "https://autoglassavondale.net/",
         "period": "Octubre 2025 – Presente",
-        "summary": "Plataforma full-stack B2B/B2C para distribución mayorista y minorista de auto-cristal, con tres aplicaciones, inventario multibodega y pagos Clover.",
+        "summary": "Lideré el desarrollo de una plataforma B2B/B2C de distribución de cristales automotrices, con inventario multibodega e integraciones de pago.",
         "role": "Tech Lead & Project Manager",
         "bullets": [
           "Liderazgo de equipo de 5+ desarrolladores.",
           "Workflows de IA para triage de issues y generación de requerimientos.",
           "Automatización cross-tool entre GitHub, Jira y Slack."
         ],
-        "tags": ["React", "React Native", "Node.js", "PostgreSQL", "Docker", "AI-assisted"]
+        "tags": [
+          "React",
+          "React Native",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "AI-assisted"
+        ]
       },
       {
         "id": "ola-analytics",
-        "number": "03",
+        "number": "04",
         "title": "Emeat",
         "client": "Ola Technologies",
         "link": "https://emeat.io/",
         "period": "Mayo 2023 – Noviembre 2024",
-        "summary": "Motor de newsletters automatizados con reportes PDF y gráficos en vivo, dashboards de analítica de pago y flujos de suscripción Chargebee.",
+        "summary": "Desarrollé automatización de reportes, tableros de analítica y flujos de suscripción para un producto basado en datos.",
         "role": "Full Stack Developer",
         "bullets": [
           "Eliminó preparación manual de reportes recurrentes.",
           "Worker de pagos fallidos y riesgo de churn.",
           "Dashboards de forecasting de precios y márgenes con datos USDA."
         ],
-        "tags": ["React", "Node.js", "MongoDB", "Jest", "Chargebee", "PDF reports"]
+        "tags": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Jest",
+          "Chargebee",
+          "PDF reports"
+        ]
       }
-    ]
+    ],
+    "liveLabel": "Ver proyecto"
   },
   "technologies": {
     "section": "03 //",
