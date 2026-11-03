@@ -1,0 +1,216 @@
+{
+  "profile": {
+    "name": "Erick Edel Beltrán Castillo",
+    "role": "Frontend Engineer | React, React Native & TypeScript",
+    "location": "Los Mochis, Sinaloa, México",
+    "headline": "Construyo aplicaciones web y móviles confiables con React, React Native y TypeScript.",
+    "bio": "Ingeniero de software con más de 4 años de experiencia construyendo y manteniendo aplicaciones web y móviles en producción con React, React Native, TypeScript, JavaScript y Node.js. Experiencia en arquitectura de componentes reutilizables, manejo de estado, integración de APIs REST, pruebas automatizadas y CI/CD. Combino desarrollo de producto con liderazgo técnico, resolución de incidentes en producción e ingeniería asistida por IA. Enfoque en software mantenible y entrega cross-funcional.",
+    "availability": "Abierto a oportunidades remotas o híbridas",
+    "email": "erickedelbeltran@gmail.com",
+    "phone": "+52 668 220 1744",
+    "whatsappLink": "https://wa.me/526682201744",
+    "github": "https://github.com/edcastsh",
+    "linkedin": "https://www.linkedin.com/in/erickedelbeltran/",
+    "calendar": "#"
+  },
+  "nav": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "technologies": "Tecnologías",
+    "career": "Trayectoria",
+    "education": "Educación",
+    "contact": "Contacto"
+  },
+  "lang": {
+    "es": "ES",
+    "en": "EN"
+  },
+  "hero": {
+    "headline": "Construyo aplicaciones web y móviles confiables con React, React Native y TypeScript.",
+    "whatsapp": "WhatsApp"
+  },
+  "about": {
+    "section": "01 //",
+    "title": "Sobre mí",
+    "lead": "Resumen profesional",
+    "bio": "Ingeniero de software con más de 4 años de experiencia construyendo y manteniendo aplicaciones web y móviles en producción con React, React Native, TypeScript, JavaScript y Node.js. Experiencia en arquitectura de componentes reutilizables, manejo de estado, integración de APIs REST, pruebas automatizadas y CI/CD. Combino desarrollo de producto con liderazgo técnico, resolución de incidentes en producción e ingeniería asistida por IA. Enfoque en software mantenible y entrega cross-funcional.",
+    "status": "#OPENTOWORK",
+    "availability": "Abierto a oportunidades remotas o híbridas",
+    "languagesTitle": "Idiomas",
+    "languages": [
+      { "name": "Español", "level": "Nativo" },
+      { "name": "Inglés", "level": "Avanzado (C1 speaking)" }
+    ]
+  },
+  "hints": {
+    "first": [
+      "Bienvenido, explora con calma",
+      "Aquí vive buen código",
+      "¿Buscas frontend? Está aquí",
+      "Scroll y ojos curiosos"
+    ],
+    "returning": [
+      "Te había visto antes 🤔",
+      "Otra vez por aquí 👀",
+      "Ya te recordaba",
+      "Volviste, ¿qué buscas?",
+      "Tú no eres nuevo"
+    ],
+    "all": [
+      "¿Hablan? Escríbele un mail",
+      "¿Prefiere WhatsApp? Aquí está",
+      "Mira estos proyectos 👇",
+      "¿Buscas frontend? Contáctalo",
+      "Un mail puede cambiarlo todo",
+      "¿Quieres saber más?",
+      "Está disponible para equipos",
+      "¿Charlan 15 min?",
+      "Revisa esta experiencia 👇",
+      "¿Te interesa? Escríbele",
+      "Los detalles están abajo",
+      "Le gusta tu curiosidad 👀",
+      "¿Algo te llamó la atención?"
+    ]
+  },
+  "projects": {
+    "section": "02 //",
+    "title": "Proyectos",
+    "roleLabel": "Rol",
+    "periodLabel": "Periodo",
+    "items": [
+      {
+        "id": "gasolinazo",
+        "number": "01",
+        "title": "Gasolinazo",
+        "client": "Proyecto personal",
+        "link": "https://gasolinazo.vercel.app/",
+        "period": "2024 – Presente",
+        "summary": "Aplicación mobile-first para comparar precios de gasolina en México. Pipeline nocturno actualiza precios oficiales a nivel nacional.",
+        "role": "Frontend Engineer",
+        "bullets": [
+          "Mapas interactivos con React-Leaflet.",
+          "Datos eficientes con TanStack Query y estado global con Zustand.",
+          "Stack: React, TypeScript, Vite."
+        ],
+        "tags": ["React", "TypeScript", "Vite", "React-Leaflet", "TanStack Query", "Zustand"]
+      },
+      {
+        "id": "avondale",
+        "number": "02",
+        "title": "Avondale Auto Glass Platform",
+        "client": "Avondale Auto Glass",
+        "link": "https://autoglassavondale.net/",
+        "period": "Octubre 2025 – Presente",
+        "summary": "Plataforma full-stack B2B/B2C para distribución mayorista y minorista de auto-cristal, con tres aplicaciones, inventario multibodega y pagos Clover.",
+        "role": "Tech Lead & Project Manager",
+        "bullets": [
+          "Liderazgo de equipo de 5+ desarrolladores.",
+          "Workflows de IA para triage de issues y generación de requerimientos.",
+          "Automatización cross-tool entre GitHub, Jira y Slack."
+        ],
+        "tags": ["React", "React Native", "Node.js", "PostgreSQL", "Docker", "AI-assisted"]
+      },
+      {
+        "id": "ola-analytics",
+        "number": "03",
+        "title": "Emeat",
+        "client": "Ola Technologies",
+        "link": "https://emeat.io/",
+        "period": "Mayo 2023 – Noviembre 2024",
+        "summary": "Motor de newsletters automatizados con reportes PDF y gráficos en vivo, dashboards de analítica de pago y flujos de suscripción Chargebee.",
+        "role": "Full Stack Developer",
+        "bullets": [
+          "Eliminó preparación manual de reportes recurrentes.",
+          "Worker de pagos fallidos y riesgo de churn.",
+          "Dashboards de forecasting de precios y márgenes con datos USDA."
+        ],
+        "tags": ["React", "Node.js", "MongoDB", "Jest", "Chargebee", "PDF reports"]
+      }
+    ]
+  },
+  "technologies": {
+    "section": "03 //",
+    "title": "Tecnologías"
+  },
+  "career": {
+    "section": "04 //",
+    "title": "Trayectoria",
+    "items": [
+      {
+        "year": "2025",
+        "period": "Oct 2025 – Presente",
+        "title": "Tech Lead & Project Manager",
+        "company": "Avondale Auto Glass",
+        "description": "Liderazgo técnico y gestión de plataforma full-stack B2B/B2C.",
+        "bullets": [
+          "Arquitectura y mantenimiento de tres aplicaciones para distribución de auto-cristal.",
+          "Liderazgo de equipo de 5+ devs: estándares, code reviews, Git workflows.",
+          "Integración de pagos Clover, inventario multibodega y workflows de IA para requerimientos.",
+          "Automatización cross-tool entre GitHub, Jira y Slack."
+        ]
+      },
+      {
+        "year": "2024",
+        "period": "Nov 2024 – Oct 2025",
+        "title": "Senior Software Development Engineer",
+        "company": "Slalom (Amazon Pay Studio) – Inetum",
+        "description": "Biblioteca React Native cross-platform para web y mobile.",
+        "bullets": [
+          "Mantenimiento de librería React Native con TypeScript.",
+          "Componentes reutilizables adoptados por múltiples equipos.",
+          "Pruebas automatizadas con Jest y code reviews."
+        ]
+      },
+      {
+        "year": "2023",
+        "period": "May 2023 – Nov 2024",
+        "title": "Full Stack Developer",
+        "company": "Ola Technologies",
+        "description": "Productos de analítica y automatización de newsletters.",
+        "bullets": [
+          "Motor de newsletters con PDFs y gráficos en vivo.",
+          "Flujos Chargebee: planes, descuentos, upgrades, coupons.",
+          "Dashboards de analítica de pago con datos USDA.",
+          "Pruebas Jest para auth, pagos, registro y flujos web."
+        ]
+      },
+      {
+        "year": "2022",
+        "period": "Ene 2022 – May 2023",
+        "title": "Support Engineer / SRE",
+        "company": "Xira",
+        "description": "Monitoreo y resolución de incidentes en producción.",
+        "bullets": [
+          "Monitoreo de servidores de producción y troubleshooting.",
+          "Scripts automatizados para 12 servidores de producción.",
+          "Análisis de logs y root-cause de incidentes."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "section": "05 //",
+    "title": "Educación",
+    "items": [
+      {
+        "degree": "B.S. Mechatronics Engineering",
+        "school": "Instituto Tecnológico de Los Mochis",
+        "year": "2021"
+      },
+      {
+        "degree": "Electronics Technician",
+        "school": "CETis 108",
+        "year": "2016"
+      }
+    ]
+  },
+  "contact": {
+    "section": "06 //",
+    "title": "Contacto",
+    "lead": "Construyamos algo que funcione de punta a punta.",
+    "availability": "Abierto a oportunidades remotas o híbridas",
+    "ctaWhatsapp": "Hablemos por WhatsApp",
+    "ctaEmail": "Escríbeme"
+  },
+  "footer": "Portafolio con React + Vite."
+}
