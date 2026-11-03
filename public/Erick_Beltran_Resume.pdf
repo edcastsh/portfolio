@@ -3,23 +3,20 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 5 0 R] /Count 2 >>
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 4 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
 endobj
 5 0 obj
-null
-endobj
-6 0 obj
-<< /Length 1891 >>
+<< /Length 2023 >>
 stream
 BT
 /F1 10 Tf
-45 780 Td
+45 790 Td
 (ERICK EDEL BELTRAN CASTILLO) Tj
 0 -15 Td
 (FRONTEND ENGINEER | REACT, REACT NATIVE & TYPESCRIPT) Tj
@@ -32,25 +29,25 @@ BT
 0 -15 Td
 (PROFESSIONAL SUMMARY) Tj
 0 -15 Td
-(Software engineer with 4+ years building production web and mobile applications using React,) Tj
+(Software engineer with 4+ years of experience in production web and mobile applications.) Tj
 0 -15 Td
-(React Native, TypeScript, JavaScript, and Node.js. Experienced in component architecture,) Tj
+(React, React Native, TypeScript, JavaScript, Node.js, component architecture, REST APIs,) Tj
 0 -15 Td
-(REST integrations, automated testing, CI/CD, technical leadership and delivery.) Tj
+(automated testing, CI/CD, technical leadership, and cross-functional delivery.) Tj
 0 -15 Td
 () Tj
 0 -15 Td
 (TECHNICAL SKILLS) Tj
 0 -15 Td
-(Frontend & Mobile: React, React Native, TypeScript, JavaScript, Redux, Zustand, Vite) Tj
+(Frontend: React, React Native, TypeScript, JavaScript, Redux, Zustand, Vite) Tj
 0 -15 Td
-(Backend & APIs: Node.js, Express, REST APIs, background workers) Tj
+(Backend: Node.js, Express, REST APIs, background workers) Tj
 0 -15 Td
 (Testing: Jest, unit/integration testing, code reviews) Tj
 0 -15 Td
 (Data: PostgreSQL, MySQL, MongoDB, SQLite) Tj
 0 -15 Td
-(DevOps: Git, GitHub Actions, GitLab CI/CD, Docker, Azure, DigitalOcean, Railway) Tj
+(Delivery: GitHub Actions, GitLab CI/CD, Docker, Azure, DigitalOcean, Railway) Tj
 0 -15 Td
 (UI: Tailwind CSS, Material UI, shadcn/ui, Storybook) Tj
 0 -15 Td
@@ -60,53 +57,62 @@ BT
 0 -15 Td
 (PROFESSIONAL EXPERIENCE) Tj
 0 -15 Td
-(Avondale Auto Glass | Oct 2025 - Present | Tech Lead & Project Manager) Tj
+(Avondale Auto Glass | Oct 2025 - Present) Tj
 0 -15 Td
-(- Architect and maintain a B2B/B2C platform across three applications.) Tj
+(Tech Lead & Project Manager) Tj
 0 -15 Td
-(- Lead 5+ developers, code reviews, Git workflows and delivery practices.) Tj
+(- Architect and maintain a B2B/B2C platform spanning three applications.) Tj
 0 -15 Td
-(- Build multi-warehouse inventory, order processing and Clover payment integration.) Tj
+(- Lead a team of 5+ developers, code reviews, Git workflows and delivery.) Tj
 0 -15 Td
-(- Introduce AI-assisted requirements, issue triage and GitHub/Jira/Slack workflows.) Tj
+(- Build multi-warehouse inventory, order processing and Clover integration.) Tj
+0 -15 Td
+(- Implement AI-assisted issue triage, requirements and cross-tool workflows.) Tj
 0 -15 Td
 () Tj
 0 -15 Td
 (Slalom \(Amazon Pay Studio\) - Inetum | Nov 2024 - Oct 2025) Tj
 0 -15 Td
 (Senior Software Development Engineer) Tj
+0 -15 Td
+(- Maintained a cross-platform React Native TypeScript library.) Tj
+0 -15 Td
+(- Built reusable components adopted by multiple engineering teams.) Tj
 ET
 endstream
 endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
 7 0 obj
-<< /Length 1416 >>
+<< /Length 1243 >>
 stream
 BT
 /F1 10 Tf
-45 780 Td
-(- Maintained cross-platform React Native TypeScript library for web and mobile.) Tj
-0 -15 Td
-(- Built reusable components adopted across engineering teams.) Tj
-0 -15 Td
-(- Added Jest tests and collaborated on architecture and product features.) Tj
+45 790 Td
+(- Implemented Jest tests and collaborated on architecture decisions.) Tj
 0 -15 Td
 () Tj
 0 -15 Td
-(Ola Technologies | May 2023 - Nov 2024 | Full Stack Developer) Tj
+(Ola Technologies | May 2023 - Nov 2024) Tj
+0 -15 Td
+(Full Stack Developer) Tj
 0 -15 Td
 (- Automated newsletters with PDF reports and live charts.) Tj
 0 -15 Td
-(- Integrated Chargebee subscriptions and failed-payment background worker.) Tj
+(- Integrated Chargebee subscription flows and failed-payment worker.) Tj
 0 -15 Td
-(- Built paid USDA analytics dashboards and Jest integration tests.) Tj
+(- Built USDA analytics dashboards and Jest integration tests.) Tj
 0 -15 Td
 () Tj
 0 -15 Td
-(Xira | Jan 2022 - May 2023 | Support Engineer / SRE) Tj
+(Xira | Jan 2022 - May 2023) Tj
 0 -15 Td
-(- Monitored production servers and resolved incidents using logs and debugging.) Tj
+(Support Engineer / SRE) Tj
 0 -15 Td
-(- Automated recurring monitoring checks with scripts.) Tj
+(- Monitored production servers and resolved incidents.) Tj
+0 -15 Td
+(- Automated recurring monitoring and performed root-cause debugging.) Tj
 0 -15 Td
 () Tj
 0 -15 Td
@@ -114,7 +120,7 @@ BT
 0 -15 Td
 (Gasolinazo | gasolinazo.vercel.app) Tj
 0 -15 Td
-(Mobile-first gasoline price comparison in Mexico using React, TypeScript, Vite,) Tj
+(Mobile-first gasoline price comparison in Mexico with React, TypeScript, Vite,) Tj
 0 -15 Td
 (React-Leaflet, TanStack Query and Zustand; nightly national data pipeline.) Tj
 0 -15 Td
@@ -142,10 +148,10 @@ xref
 0000000121 00000 n 
 0000000191 00000 n 
 0000000317 00000 n 
-0000000337 00000 n 
-0000002279 00000 n 
+0000002391 00000 n 
+0000002517 00000 n 
 trailer
 << /Size 8 /Root 1 0 R >>
 startxref
-3746
+3811
 %%EOF
