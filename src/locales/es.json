@@ -13,6 +13,10 @@
     "linkedin": "https://www.linkedin.com/in/erickedelbeltran/",
     "calendar": "#"
   },
+  "meta": {
+    "title": "Erick Edel Beltrán Castillo | Ingeniero Frontend",
+    "description": "Portafolio de Erick Edel Beltrán Castillo, Ingeniero Frontend especializado en React, React Native y TypeScript."
+  },
   "nav": {
     "about": "Sobre mí",
     "projects": "Proyectos",

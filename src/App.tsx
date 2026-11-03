@@ -25,7 +25,13 @@ function App() {
 
   useEffect(() => {
     document.documentElement.lang = i18n.language
-  }, [i18n.language])
+    document.title = t('meta.title')
+
+    const metaDescription = document.querySelector('meta[name="description"]')
+    if (metaDescription) {
+      metaDescription.setAttribute('content', t('meta.description'))
+    }
+  }, [i18n.language, t])
 
   const profile = t('profile', { returnObjects: true }) as ProfileTranslation
   const projects = t('projects.items', { returnObjects: true }) as Project[]
