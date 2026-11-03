@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/edcastsh/portfolio/compare/portfolio-v1.0.0...portfolio-v1.1.0) (2026-11-03)
+
+
+### Features
+
+* optimize meta tags and dynamic page title ([8fb30fe](https://github.com/edcastsh/portfolio/commit/8fb30fe1cb53db79df95101bcf762a8a5c1ea80f))
+* optimize meta tags and dynamic page title ([fc5d783](https://github.com/edcastsh/portfolio/commit/fc5d7832a08753e60472417079710641b857a5bd))
+
 ## 1.0.0 (2026-11-03)
 
 
