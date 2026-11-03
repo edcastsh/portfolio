@@ -1,7 +1,7 @@
 {
   "profile": {
-    "name": "Erick Edel Beltrán Castillo",
-    "role": "Frontend Engineer | React, React Native & TypeScript",
+    "name": "Erick Beltrán",
+    "role": "Software Engineer",
     "location": "Los Mochis, Sinaloa, Mexico",
     "headline": "I build reliable web and mobile applications with React, React Native, and TypeScript.",
     "bio": "Software engineer with 4+ years of experience building and maintaining production web and mobile applications using React, React Native, TypeScript, JavaScript, and Node.js. Experienced in reusable component architecture, state management, REST API integrations, automated testing, and CI/CD. Combines hands-on product development with technical leadership, production troubleshooting, and AI-assisted engineering workflows. Focused on reliable, maintainable software and cross-functional delivery.",
@@ -30,9 +30,8 @@
     "en": "EN"
   },
   "hero": {
-    "headline": "Building useful software, from the interface to the systems behind it.",
+    "headline": "Building web and mobile experiences.",
     "whatsapp": "WhatsApp",
-    "intro": "Software engineer working with React, React Native, TypeScript and Node.js. I care about clear interfaces, maintainable architecture and the details that make software reliable.",
     "downloadCv": "Download CV"
   },
   "about": {
