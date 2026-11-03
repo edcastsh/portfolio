@@ -18,7 +18,8 @@
 - Checks pasan: `npm run lint`, `npx tsc --noEmit`, `npm run format:check`, `npm run build`.
 - Añadido `vercel.json` con framework Vite, build command, output directory `dist` y SPA rewrite a `index.html`.
 - Default branch renombrada de `master` a `main` en GitHub.
-- Permiso de GitHub Actions activado para crear/aprobar pull requests; Release Please corrió y creó PR `chore(main): release portfolio 1.0.0`.
+- Permiso de GitHub Actions activado para crear/aprobar pull requests; Release Please creó PR `chore(main): release portfolio 1.1.0`.
+- Ruleset `mainrule` ajustado: administrador del repo puede hacer bypass de requisitos de revisión para mergear sus propios PRs.
 - Metatags optimizados: título, descripción, autor, keywords, Open Graph, Twitter card y `theme-color`; título de pestaña ahora se actualiza según idioma.
 - Sin historias de usuario aún; el backlog se construirá cuando se solicite.
 

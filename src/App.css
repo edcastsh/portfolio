@@ -363,3 +363,21 @@
     justify-self: center;
   }
 }
+
+/* GitHub-aligned portfolio refinements */
+.logo { font-size: 1.05rem; letter-spacing: -0.04em; }
+.logo-dot { color: var(--accent); }
+.hero { min-height: 70svh; }
+.hero h1 { letter-spacing: -0.055em; }
+.hero-content { max-width: 800px; }
+.hero-tagline { font-size: clamp(1.3rem, 2.6vw, 2rem); line-height: 1.35; max-width: 760px; margin-inline: auto; color: var(--text-heading); }
+.hero-intro { max-width: 620px; margin: 18px auto 0; color: var(--text-muted); line-height: 1.7; }
+.hero-links { justify-content: center; align-items: center; }
+.hero-links a { display: inline-flex; padding: 10px 14px; border: 1px solid var(--border); border-radius: var(--radius); transition: border-color .2s, transform .2s; }
+.hero-links a:hover { border-color: var(--accent); transform: translateY(-2px); text-decoration: none; }
+.hero-links .resume-link { background: var(--accent); color: #0b0c10; font-weight: 700; border-color: var(--accent); }
+.card { transition: border-color .2s, transform .2s; }
+.card:hover { border-color: var(--accent); transform: translateY(-3px); }
+.project-links { display: flex; gap: 18px; flex-wrap: wrap; margin: 16px 0; font-weight: 600; font-size: .9rem; }
+.project-links a { color: var(--accent); }
+@media (prefers-reduced-motion: reduce) { .card, .hero-links a { transition: none; } .card:hover, .hero-links a:hover { transform: none; } }

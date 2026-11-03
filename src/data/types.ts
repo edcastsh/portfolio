@@ -4,6 +4,7 @@ export type Project = {
   title: string
   client: string
   link?: string
+  repository?: string
   period: string
   summary: string
   role: string

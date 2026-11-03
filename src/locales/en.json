@@ -1,7 +1,7 @@
 {
   "profile": {
-    "name": "Erick Edel Beltrán Castillo",
-    "role": "Frontend Engineer | React, React Native & TypeScript",
+    "name": "Erick Beltrán",
+    "role": "Software Engineer",
     "location": "Los Mochis, Sinaloa, Mexico",
     "headline": "I build reliable web and mobile applications with React, React Native, and TypeScript.",
     "bio": "Software engineer with 4+ years of experience building and maintaining production web and mobile applications using React, React Native, TypeScript, JavaScript, and Node.js. Experienced in reusable component architecture, state management, REST API integrations, automated testing, and CI/CD. Combines hands-on product development with technical leadership, production troubleshooting, and AI-assisted engineering workflows. Focused on reliable, maintainable software and cross-functional delivery.",
@@ -30,20 +30,27 @@
     "en": "EN"
   },
   "hero": {
-    "headline": "I build reliable web and mobile applications with React, React Native, and TypeScript.",
-    "whatsapp": "WhatsApp"
+    "headline": "Building web and mobile experiences.",
+    "whatsapp": "WhatsApp",
+    "downloadCv": "Download CV"
   },
   "about": {
     "section": "01 //",
     "title": "About me",
-    "lead": "Professional summary",
-    "bio": "Software engineer with 4+ years of experience building and maintaining production web and mobile applications using React, React Native, TypeScript, JavaScript, and Node.js. Experienced in reusable component architecture, state management, REST API integrations, automated testing, and CI/CD. Combines hands-on product development with technical leadership, production troubleshooting, and AI-assisted engineering workflows. Focused on reliable, maintainable software and cross-functional delivery.",
+    "lead": "A little about how I work",
+    "bio": "I build and maintain web and mobile products, from reusable UI systems to backend integrations. My experience includes engineering work on Amazon Pay initiatives, product development, automated testing, and leading delivery across teams.",
     "status": "#OPENTOWORK",
     "availability": "Open to remote or hybrid opportunities",
     "languagesTitle": "Languages",
     "languages": [
-      { "name": "Spanish", "level": "Native" },
-      { "name": "English", "level": "Advanced (C1 speaking)" }
+      {
+        "name": "Spanish",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "Advanced (C1 speaking)"
+      }
     ]
   },
   "hints": {
@@ -78,7 +85,7 @@
   },
   "projects": {
     "section": "02 //",
-    "title": "Projects",
+    "title": "Selected work",
     "roleLabel": "Role",
     "periodLabel": "Period",
     "items": [
@@ -89,48 +96,91 @@
         "client": "Personal project",
         "link": "https://gasolinazo.vercel.app/",
         "period": "2024 – Present",
-        "summary": "Mobile-first application that helps drivers in Mexico compare nearby gasoline prices. A nightly data pipeline updates national gasoline prices.",
+        "summary": "A mobile-first way to compare nearby fuel prices in Mexico, with map-based search and filters for fuel type and distance.",
         "role": "Frontend Engineer",
         "bullets": [
           "Interactive maps with React-Leaflet.",
           "Efficient data fetching with TanStack Query and global state with Zustand.",
           "Stack: React, TypeScript, Vite."
         ],
-        "tags": ["React", "TypeScript", "Vite", "React-Leaflet", "TanStack Query", "Zustand"]
+        "tags": [
+          "React",
+          "TypeScript",
+          "Vite",
+          "React-Leaflet",
+          "TanStack Query",
+          "Zustand"
+        ],
+        "repository": "https://github.com/edcastsh/gasolinazo"
+      },
+      {
+        "id": "pastry-pos",
+        "number": "02",
+        "title": "Pastry POS",
+        "client": "Personal project",
+        "link": "https://github.com/edcastsh/pastry-pos-showcase",
+        "repository": "https://github.com/edcastsh/pastry-pos-showcase",
+        "period": "2026",
+        "summary": "A point-of-sale and order management project for a small bakery, focused on practical day-to-day workflows.",
+        "role": "Full Stack Developer",
+        "bullets": [
+          "Order and product management workflows.",
+          "Built around real bakery operations."
+        ],
+        "tags": [
+          "React Native",
+          "TypeScript",
+          "Supabase"
+        ]
       },
       {
         "id": "avondale",
-        "number": "02",
+        "number": "03",
         "title": "Avondale Auto Glass Platform",
         "client": "Avondale Auto Glass",
         "link": "https://autoglassavondale.net/",
         "period": "October 2025 – Present",
-        "summary": "Full-stack B2B/B2C platform for wholesale and retail auto-glass distribution, spanning three applications, multi-warehouse inventory, and Clover payments.",
+        "summary": "Led engineering work on a B2B/B2C platform for auto-glass distribution, including inventory across multiple warehouses and payment integrations.",
         "role": "Tech Lead & Project Manager",
         "bullets": [
           "Led a team of 5+ developers.",
           "AI-assisted issue-triage and requirements-generation workflows.",
           "Cross-tool automation connecting GitHub, Jira, and Slack."
         ],
-        "tags": ["React", "React Native", "Node.js", "PostgreSQL", "Docker", "AI-assisted"]
+        "tags": [
+          "React",
+          "React Native",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "AI-assisted"
+        ]
       },
       {
         "id": "ola-analytics",
-        "number": "03",
+        "number": "04",
         "title": "Emeat",
         "client": "Ola Technologies",
         "link": "https://emeat.io/",
         "period": "May 2023 – November 2024",
-        "summary": "Automated newsletter engine with PDF reports and live charts, paid analytics dashboards, and Chargebee subscription workflows.",
+        "summary": "Built reporting automation, analytics dashboards and subscription workflows for a data-driven product.",
         "role": "Full Stack Developer",
         "bullets": [
           "Eliminated manual recurring report preparation.",
           "Background worker for failed payments and churn risk.",
           "Price forecasting and margin dashboards using USDA data."
         ],
-        "tags": ["React", "Node.js", "MongoDB", "Jest", "Chargebee", "PDF reports"]
+        "tags": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Jest",
+          "Chargebee",
+          "PDF reports"
+        ]
       }
-    ]
+    ],
+    "liveLabel": "Visit project"
   },
   "technologies": {
     "section": "03 //",
