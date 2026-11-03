@@ -43,7 +43,7 @@ function App() {
     <>
       <header className="site-header">
         <a className="logo" href="#">
-          Portfolio
+          edcastsh<span className="logo-dot">.</span>
         </a>
         <nav aria-label={t('nav.about')}>
           <a href="#about">{t('nav.about')}</a>
@@ -80,6 +80,7 @@ function App() {
             <h1>{profile.name}</h1>
             <p className="hero-location">{profile.location}</p>
             <p className="hero-tagline">{t('hero.headline')}</p>
+          <p className="hero-intro">{t('hero.intro')}</p>
             <ul className="hero-links">
               {profile.github && (
                 <li>
@@ -96,7 +97,7 @@ function App() {
                 </li>
               )}
               <li>
-                <a href={profile.whatsappLink}>{t('hero.whatsapp')}</a>
+                <a className="resume-link" href="/Erick_Beltran_Resume.pdf" download="Erick_Beltran_Resume.pdf">{t('hero.downloadCv')} ↓</a>
               </li>
             </ul>
           </div>
@@ -152,6 +153,10 @@ function App() {
                   )}
                 </h3>
                 <p>{project.summary}</p>
+                <div className="project-links">
+                  {project.link && <a href={project.link} target="_blank" rel="noreferrer">{t('projects.liveLabel')} ↗</a>}
+                  {project.repository && <a href={project.repository} target="_blank" rel="noreferrer">GitHub ↗</a>}
+                </div>
                 <p>
                   <strong>{t('projects.roleLabel')}:</strong> {project.role}
                 </p>
