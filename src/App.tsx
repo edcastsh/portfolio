@@ -78,9 +78,7 @@ function App() {
           <div className="hero-content">
             <p className="eyebrow">{profile.role}</p>
             <h1>{profile.name}</h1>
-            <p className="hero-location">{profile.location}</p>
-            <p className="hero-tagline">{t('hero.headline')}</p>
-          <p className="hero-intro">{t('hero.intro')}</p>
+              <p className="hero-tagline">{t('hero.headline')}</p>
             <ul className="hero-links">
               {profile.github && (
                 <li>
